@@ -1,0 +1,7 @@
+server/node_modules/
+server/node_modules/*
+server/csvs/
+server/csvs/*
+
+client/app/node_modules/
+client/app/node_modules/*
